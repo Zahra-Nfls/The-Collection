@@ -13,7 +13,7 @@ const movieCollection = [
 
     {
         title: "The Beekeeper",
-        director: "	David Yesterday",
+        director: "David Yesterday",
         releaseYear: "2024",
         picture: "The-Collection/Assets/img/TheBeekeeper.jpg",
         genre:"Action Thriller",
@@ -24,7 +24,7 @@ const movieCollection = [
 
     {
         title: "Détective Conan",
-        director: "	Gōshō Aoyama",
+        director: "Gōshō Aoyama",
         releaseYear: "1994",
         picture: "The-Collection/Assets/img/conan.jpg",
         genre:"Anime/Detective Romance",
@@ -39,7 +39,7 @@ const movieCollection = [
         releaseYear: "2005",
         picture: "The-Collection/Assets/img/Criminal Minds.jpg",
         genre:"	Criminal Profiling",
-        cast: "		Joe Mantegna, Paget Brewster, AJ Cook, Kirsten Vangsness, Aisha Tyler, Adam Rodríguez",
+        cast: "	Joe Mantegna, Paget Brewster, AJ Cook, Kirsten Vangsness, Aisha Tyler, Adam Rodríguez",
         description: "A team of profilers , initially led by agent Aaron Hotchner (seasons 1 to 12) then by Emily Prentiss (from episode 3 of season 12) is required to travel throughout the United States ( sometimes as far as Canada or Mexico ), responsible for locally investigating criminals and serial killers . Each of these agents has their own specialty and personality, which makes them complementary..",
         trailerLink: "https://www.youtube.com/watch?v=d73rBmyRNH4&ab_channel=HippoHippo", 
     },
@@ -57,7 +57,7 @@ const movieCollection = [
 
     {
         title: "Elementary",
-        director: "	David Yesterday",
+        director: "	Robert Doherty",
         releaseYear: "2019",
         picture: "The-Collection/Assets/img/Elementary.jpg",
         genre:"Detective Series",
@@ -68,7 +68,7 @@ const movieCollection = [
 
     {
         title: "Bad Boys For Life",
-        director: "	Adil El Arbi, Bilall Fallah",
+        director: "Adil El Arbi, Bilall Fallah",
         releaseYear: "2020",
         picture: "The-Collection/Assets/img/Bad Boys 2.jpg",
         genre:"	Police Comedy",
@@ -90,7 +90,7 @@ const movieCollection = [
 
     {
         title: "The Mentalist",
-        director: "	Bruno Heller",
+        director: "Bruno Heller",
         releaseYear: "January 12, 2024",
         picture: "The-Collection/Assets/img/the mentalist.jpg",
         genre:"Crime Comedy-Drama ",
