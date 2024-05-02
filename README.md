@@ -1,6 +1,6 @@
 # 𝚃𝚑𝚎 𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗
 
-![collection](Assets/img/VHS Box Art.jpeg)
+![collection](/Assets/img/download.jpeg)
 
 For this project i am going to create a collection of my favorite movies!
 
@@ -11,6 +11,7 @@ For this project i am going to create a collection of my favorite movies!
 𝑀𝑎𝑘𝑒 𝑦𝑜𝑢𝑟 𝑜𝑤𝑛 𝑑𝑒𝑠𝑖𝑔𝑛, 𝑢𝑠𝑖𝑛𝑔 𝑔𝑟𝑖𝑑 𝑎𝑛𝑑/𝑜𝑟 𝑓𝑙𝑒𝑥 𝑡𝑒𝑐ℎ𝑛𝑖𝑞𝑢𝑒𝑠, 𝑎𝑛𝑑 𝑐𝑟𝑒𝑎𝑡𝑒 𝑡ℎ𝑒 𝑐𝑜𝑟𝑟𝑒𝑠𝑝𝑜𝑛𝑑𝑖𝑛𝑔 𝐻𝑇𝑀𝐿 𝑠𝑘𝑒𝑙𝑒𝑡𝑜𝑛 𝑎𝑛𝑑 𝑐𝑠𝑠 𝑓𝑖𝑙𝑒 (𝑛𝑜 𝑓𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘𝑠).
 
 𝑂𝑛𝑐𝑒 𝑡ℎ𝑖𝑠 𝑖𝑠 𝑑𝑜𝑛𝑒, 𝑦𝑜𝑢'𝑙𝑙 ℎ𝑎𝑣𝑒 𝑡𝑜 𝑑𝑖𝑠𝑝𝑙𝑎𝑦 𝑦𝑜𝑢𝑟 𝑐𝑜𝑙𝑙𝑒𝑐𝑡𝑖𝑜𝑛 𝑖𝑛 𝑎 𝑛𝑖𝑐𝑒, 𝑟𝑒𝑠𝑝𝑜𝑛𝑠𝑖𝑣𝑒 𝑤𝑎𝑦 𝑖𝑛𝑡𝑜 𝑦𝑜𝑢𝑟 ℎ𝑡𝑚𝑙 𝑏𝑜𝑑𝑦.
+
 
 
 ### [𝚉𝚊𝚑𝚛𝚊'𝚜 𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗](https://zaraana.github.io/The-Collection/)
