@@ -14,4 +14,4 @@ For this project i am going to create a collection of my favorite movies!
 
 
 
-### [𝚉𝚊𝚑𝚛𝚊'𝚜 𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗](https://zaraana.github.io/The-Collection/)
+### [𝚉𝚊𝚑𝚛𝚊'𝚜 𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗](https://zahra-nfls.github.io/The-Collection/)
